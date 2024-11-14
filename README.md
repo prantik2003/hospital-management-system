@@ -24,3 +24,29 @@
 Patient Panel - https://curasync.netlify.app
 
 Admin Panel - https://curasync-admin-dashboard.netlify.app
+
+
+
+## .env Content
+
+```bash
+PORT= 4000
+
+MONGO_URI=
+
+FRONTEND_URL_ONE= http://localhost:5173
+
+FRONTEND_URL_TWO= http://localhost:5174
+
+JWT_SECRET_KEY=
+
+JWT_EXPIRES=
+
+COOKIE_EXPIRE=
+
+CLOUDINARY_CLOUD_NAME=
+
+CLOUDINARY_API_KEY=
+
+CLOUDINARY_API_SECRET=
+```
