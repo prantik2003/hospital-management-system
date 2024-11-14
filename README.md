@@ -4,9 +4,9 @@
 
 ⚫ Role-Based Access Control:
 
-‣‣‣‣‣ Admin: Manages users, appointments, adds new doctors and admins.
+➼➼ Admin: Manages users, appointments, adds new doctors and admins.
 
-‣‣‣‣‣ Patient: Books appointments and views medical history.
+➼➼ Patient: Books appointments and views medical history.
 
 ⚫ Secure User Authentication: Ensures only authorized access to sensitive data.
 
