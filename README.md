@@ -22,8 +22,10 @@
 ## Deployed Links
 
 Patient Panel - https://curasync.netlify.app
+(test patient gmail: testuser@gmail.com ; password: 12345678)
 
-Admin Panel - https://curasync-admin-dashboard.netlify.app
+Admin Panel - https://curasync-admin-dashboard.netlify.app 
+(test admin gmail: admin@gmail.com ; password: 12345678)
 
 
 
